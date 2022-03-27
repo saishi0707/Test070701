@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">MemoApp</string>
+
+    <!-- サンプルテキスト -->
+
+    <string name="main_title_text">TODO一覧</string>
+    <string name="main_button_register_text">登録</string>
+    <string name="main_button_delete_text">削除</string>
+
+
+</resources>

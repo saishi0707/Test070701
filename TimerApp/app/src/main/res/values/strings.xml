@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+
+    <!-- sample -->
+    <string name="name_button_start">開始</string>
+    <string name="name_button_stop">停止</string>
+    <string name="name_button_rap">ラップ</string>
+    <string name="name_button_reset">リセット</string>
+    <string name="text_def_time">00:00.0</string>
+
+
+
+</resources>
